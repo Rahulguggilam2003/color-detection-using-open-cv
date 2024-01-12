@@ -1,1 +1,1 @@
-"# color-detection-using-open-cv" 
+Color detection using open-cv library in python
