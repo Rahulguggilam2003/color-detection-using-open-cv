@@ -1,1 +1,1 @@
-Color detection using open-cv library in python
+Colour detection using open-cv library in python
